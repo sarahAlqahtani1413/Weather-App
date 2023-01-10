@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Weather App</string>
+    <string name="updated_at">Updated at:</string>
+    <string name="clear_sky">Clear Sky</string>
+    <string name="_17_c">17°C</string>
+    <string name="low">Low:</string>
+    <string name="high">High:</string>
+    <string name="_22_c">22°C</string>
+    <string name="_14_c">14°C</string>
+    <string name="sunrise">Sunrise</string>
+    <string name="sunset">Sunset</string>
+    <string name="wind">Wind</string>
+    <string name="pressure">Pressure</string>
+    <string name="humidity">Humidity</string>
+    <string name="data">Data</string>
+    <string name="refresh">Refresh</string>
+    <string name="enter_your_zip_code">Enter your ZIP code</string>
+    <string name="submit">SUBMIT</string>
+    <string name="error_in_zip_code">Error In Zip code!!</string>
+</resources>
